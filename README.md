@@ -59,9 +59,13 @@ After you're all set for ✨✨everyone in the world✨✨✨ to be able to see 
 5. You can choose whether you keep your code private or not
 
 ![Add an existing](create-1.png)
+
 ![After selecting a directory, pick create](create-2.png)
+
 ![Write a description](create-3.png)
+
 ![Start to publish to GitHub](create-4.png)
+
 ![Choose whether or not it is private](create-5.png)
 
 ### STEP FIVE: Publishing updates
