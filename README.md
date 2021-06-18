@@ -72,10 +72,12 @@ When files change in your repo, GitHub Desktop will ask you which changes you wa
 
 Once you write the description, you can **Commit to main**.
 
+![Making a commit](commit-1.png)
+
 > When you're a wild software developer using git, working on different features for a product, you might have multiple versions of your code (aka branches). We're normal people, though, so we'll just always use the **main** branch.
 
 ### STEP SIX: Pushing your changes
 
 Now that you've updated your repo locally (aka saved your changes on your own machine), now you can send the changes over to GitHub.
 
-Use the **Push to origin** button on the top right and [share your code with the world!](https://github.com/jsoma/walkthrough-github)
+Use the **Push origin** button on the top right and [share your code with the world!](https://github.com/jsoma/walkthrough-github)
